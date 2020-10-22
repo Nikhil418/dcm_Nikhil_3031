@@ -6,5 +6,5 @@ RUN apt-get update
 RUN apt-get install -y nginx
 
 EXPOSE 3009
-CMD ["nginx","image created"]
+CMD ["nginx","image created"].
 
